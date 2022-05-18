@@ -345,7 +345,7 @@ i {
 .email-part {
     text-align: center;
     background-color: var(--intro-email-bg);
-    padding: 2.3em 2.1em;
+    padding: 2.5em 2.1em;
     border-radius: 10px;
     transform: translateY(50%);
     max-width: 750px;
@@ -359,7 +359,8 @@ i {
 .email-form {
     display: flex;
     flex-direction: column;
-    gap: 1.2em;
+    gap: 2em;
+    position: relative;
 }
 
 .email-form input {
@@ -371,6 +372,14 @@ i {
 
 .email-form input:focus {
     outline-color: var(--cta-blue);
+}
+
+.error {
+    font-size: 1.2rem;
+    color: var(--err);
+    position: absolute;
+    top: 4.5em;
+    left: 2.6em;
 }
 
 /* Footer Section */
