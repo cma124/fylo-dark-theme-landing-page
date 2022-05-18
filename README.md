@@ -24,9 +24,8 @@ Users should be able to:
 - Sign up only with valid email address
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+- Live Site URL: [cma124.github.io/fylo-dark-theme-landing-page/](https://cma124.github.io/fylo-dark-theme-landing-page/)
 
 ## My process
 
